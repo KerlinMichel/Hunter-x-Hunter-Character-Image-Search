@@ -79,7 +79,7 @@ Hyperparameters:
 
 The hyperparameters was tuned by hand.
 
-GPU: NVIDIA GeForce RTX™ 30 SERIES
+GPU: Nvidia GeForce GTX 1660 Ti Mobile
 
 ## Results
 
